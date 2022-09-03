@@ -21,6 +21,6 @@
 <br />
 
 
-[![Elmehdi1212's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmehdi1212)](https://github.com/elmehdi1212/github-readme-stats)
+[![Elmehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmehdi1212&show_icons=true&theme=radical)](https://github.com/elmehdi1212/github-readme-stats)
 
 

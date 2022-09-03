@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/elmehdielmhs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elmehdielmhs" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/elmehdi1212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elmehdi1212" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/elmehdi-oubari-ab072a20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elmehdi-oubari-ab072a20b" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/elmehdielmhs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elmehdielmhs" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/elmehdi1212" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elmehdi1212" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/elmehdi-oubari-ab072a20b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elmehdi-oubari-ab072a20b" height="30" width="40" /></a>
 
 </p>
 

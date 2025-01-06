@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elmehdi Oubari</h1>
-<h3 align="center">A passionate java  developer from Morocco</h3>
+<h3 align="center">Full Stack Developer | SaaS & AI Integration Expert</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -7,11 +7,6 @@
 
 
 - 🌱 I’m currently learning **Competitive programming**
-
-- 💬 Ask me about **Java , Spring**
-
-
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
